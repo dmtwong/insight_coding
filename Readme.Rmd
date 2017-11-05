@@ -1,0 +1,10 @@
+---
+title: "Readme"
+author: "David Wong"
+date: "November 5, 2017"
+output: html_document
+---
+I am terribly sorry for the late submission. I understand the submission might not be reviewed as deadline was passed. But it would be greatly appreciated if it is assessed. Thanks!
+
+- Python 2.7 (IDE: Anaconda) and  Windows 10 (Bash on Ubuntu)
+- os,numpy, datetime, and collections are imported
