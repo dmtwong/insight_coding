@@ -9,5 +9,5 @@
 #virtualenv venv
 #pip install virtualenvwrapper
 #python ./insight_data_code_challenge.py
-cd ./src
-python ./insight_data_code_challenge.py
+#python ./insight_data_code_challenge.py
+python ./src/insight_data_code_challenge.py
